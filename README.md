@@ -20,7 +20,7 @@ The objective of this project was to deploy a honeypot using T-Pot on a cloud VM
 - SecurityMeter: Tool for measuring the security posture and detecting vulnerabilities.
 - SpiderFoot: OSINT (Open Source Intelligence) for threat intelligence gathering.
 
-## Steps
+## Screenshots 
 
 ### Ref 1: T-Pot Dashboard Overview
 Explanation: This screenshot displays the main T-Pot dashboard, showcasing tools like Kibana, Spiderfoot, Cyberchef and more.
